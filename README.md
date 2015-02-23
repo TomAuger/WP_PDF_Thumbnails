@@ -1,2 +1,3 @@
 # WP_PDF_Thumbnails
-#31080 on Trac and beyond
+
+Collaboration on WordPress Trac ticket #31080 - Adding PDF thumbnails upon upload.
